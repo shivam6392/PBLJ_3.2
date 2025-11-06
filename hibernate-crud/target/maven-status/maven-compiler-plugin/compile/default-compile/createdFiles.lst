@@ -1,0 +1,6 @@
+com/example/hibernate/Student.class
+com/example/App.class
+com/example/hibernate/HibernateUtil.class
+com/example/hibernate/StudentCRUD.class
+com/example/Student.class
+com/example/hibernate/MainApp.class
